@@ -10,7 +10,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url('Fondo%20rosas.jpg') no-repeat center center fixed;
+  background: url('Fotos/Fondo%20rosas.jpg') no-repeat center center fixed;
   background-size: cover;
   font-family: 'Montserrat', sans-serif;
   overflow-x: hidden;
